@@ -27,6 +27,8 @@ public class CircleDemo02 {
 		Circle myCircle = new Circle();
 		myCircle.setRadius(10.0);
 		myCircle.show(myCircle.getRadius(),myCircle.findArea());
+		System.out.println("Hello World");
+		System.out.println("Hello World1111");
 	}
 
 }
